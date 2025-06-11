@@ -3,6 +3,7 @@
 - **TR:** Bu web sayfası sesinizi alıp 200ms gecikme vererek konuşmanızı engelliyor.
 
 ## How to Use? (Nasıl Kullanılır?)
+*Direct Usage: **https://xkuvvetmira.github.io/speech_jammer/speech_jammer.html***
 ### 1. (First)
 - **EN:** Download speech_jammer.html.
 - **TR:** speech_jammer.html'i indirin.
