@@ -1,4 +1,4 @@
-# Speech Jammer
+# Speech Jammer Web
 - **EN:** These web page codes prevent you from speaking by taking your voice and giving it a 200ms delay.
 - **TR:** Bu web sayfası sesinizi alıp 200ms gecikme vererek konuşmanızı engelliyor.
 
